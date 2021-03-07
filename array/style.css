@@ -1,0 +1,32 @@
+html {
+	background-color: #cf5702;
+	margin: 0;
+	padding: 0;
+	padding: 250px;
+    margin: 50px;
+}
+
+body, button, input {
+	text-align: center;
+}
+
+input {
+	border-radius: 20px;
+	text-align: center;
+	width: 220px;
+	height: 28px;
+
+}
+
+
+button {
+	border-radius: 25px;
+    height: 35px;
+    width: 155px;
+}
+
+p {
+	font-family: sans-serif;
+	font-weight: 30px;
+	font-size: large;
+}
